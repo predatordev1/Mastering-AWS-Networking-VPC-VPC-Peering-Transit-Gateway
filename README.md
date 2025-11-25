@@ -1,4 +1,4 @@
-<img width="1673" height="246" alt="image" src="https://github.com/user-attachments/assets/b528f629-e369-4aab-9034-63abef3b115e" /># Mastering-AWS-Networking-VPC-VPC-Peering-Transit-Gateway
+# Mastering-AWS-Networking-VPC-VPC-Peering-Transit-Gateway
 # PROBLEM STATEMENT
 You will build a networking solution for a fictional FinTech company named PayWave Systems.
 PayWave recently expanded its operations and separated its workloads into three functional environments:
